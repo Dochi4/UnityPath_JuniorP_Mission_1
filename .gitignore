@@ -1,0 +1,28 @@
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Mm]emoryCaptures/
+/[Aa]sset[Ss]tores[Cc]ache/
+
+# Asset meta files for folders - ignore if empty
+/[Aa]ssets/**/*.meta
+
+# MSVC host generated files
+*.user
+*.userprefs
+*.pidb
+*.suo
+*.sln
+*.csproj
+*.unityproj
+*.unitypackage
+*.logging
+
+# Crashlytics generated file
+crashlytics-build.properties
+
+# Packed Assets
+/[Aa]ssets/[Ss]treamingAssets/aa/*
